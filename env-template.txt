@@ -1,0 +1,6 @@
+# Copy this to .env.local and replace YourAnonKeyHere with your actual anon key
+
+NEXT_PUBLIC_SUPABASE_URL=https://zdtozitfyjtzudpkhjwx.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=YourAnonKeyHere
+SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpkdG96aXRmeWp0enVkcGtoand4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NzA5NTc0MywiZXhwIjoyMDcyNjcxNzQzfQ.MTAmTOvs_m9v5gBnj21FEiPDIjEk5z87EIjJRhvIcyU
+NEXT_PUBLIC_SITE_URL=http://localhost:3000
