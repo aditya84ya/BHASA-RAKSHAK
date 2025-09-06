@@ -43,7 +43,7 @@ A production-ready MVP for preserving and learning dying dialects through commun
    ```bash
    cp env.example .env.local
    ```
-   
+
    Fill in your Supabase credentials:
    ```env
    NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
@@ -92,6 +92,7 @@ The application follows a modern, clean design with:
 - **File Upload Security**: Secure file handling and validation
 - **Input Validation**: Client and server-side validation
 - **Authentication**: Secure user authentication with Supabase
+- **Platform Awareness**: SystemAssist is platform aware
 
 ## 📱 Pages & Features
 
